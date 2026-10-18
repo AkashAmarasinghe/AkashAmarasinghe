@@ -1,103 +1,62 @@
-
-<!-- =============================================================== -->
-<!--                      AKASH AMARASINGHE                         -->
-<!--              CYBERPUNK DEVELOPER PORTFOLIO                     -->
-<!--                 CRIMSON RED x NEON GOLD                        -->
-<!-- =============================================================== -->
-
 <div align="center">
 
-<!-- ======================= HERO SECTION ======================== -->
+<img src="assets/hero.svg" width="100%" alt="Akash Amarasinghe — Glassfire Developer Portfolio" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FFCC00,50:FF453A,100:FFCC00" alt="Top Accent"/>
+<br />
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=1200&color=FFB347&center=true&vCenter=true&width=850&height=48&lines=Software+Engineering+Undergraduate;Java+Developer+%7C+Android+Developer;Backend+%26+Full-Stack+Development;Learn.+Build.+Evolve." alt="Developer roles" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=37&duration=1000&pause=100000&color=FFCC00&center=true&vCenter=true&repeat=false&width=900&height=75&lines=AKASH+AMARASINGHE" alt="Akash Amarasinghe"/>
+<br />
 
-<br/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-201217?style=for-the-badge&labelColor=E54845&color=201217" alt="Status" />
+<img src="https://img.shields.io/badge/CORE-JAVA_ENGINEERING-201217?style=for-the-badge&labelColor=F18439&color=201217" alt="Core" />
+<img src="https://img.shields.io/badge/MINDSET-BUILD_%26_EVOLVE-201217?style=for-the-badge&labelColor=E8B647&color=201217" alt="Mindset" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1100&color=FF5C57&center=true&vCenter=true&width=850&height=50&lines=%3E+SOFTWARE+ENGINEERING+UNDERGRADUATE;%3E+JAVA+DEVELOPER;%3E+ANDROID+APPLICATION+DEVELOPER;%3E+FULL-STACK+DEVELOPMENT+ENTHUSIAST;%3E+BUILDING+THE+FUTURE+WITH+CODE" alt="Developer Titles"/>
+<br /><br />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20TO%20COLLABORATE-171717?style=for-the-badge&labelColor=991B1B&color=171717" alt="Status"/>
-<img src="https://img.shields.io/badge/CORE-JAVA%20DEVELOPMENT-171717?style=for-the-badge&labelColor=B45309&color=171717" alt="Java"/>
-<img src="https://img.shields.io/badge/MINDSET-BUILD%20AND%20EVOLVE-171717?style=for-the-badge&labelColor=991B1B&color=171717" alt="Mindset"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Akash200560&label=PROFILE+VIEWS&color=DC2626&style=for-the-badge" alt="Views"/>
-<img src="https://img.shields.io/github/followers/Akash200560?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&color=CA8A04" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Akash200560?affiliations=OWNER&style=for-the-badge&label=STARS&logo=github&logoColor=white&color=DC2626" alt="Stars"/>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F1D1D,50:FACC15,100:7F1D1D" alt="Divider"/>
+<img src="https://komarev.com/ghpvc/?username=AkashAmarasinghe&label=PROFILE+VIEWS&color=F05A43&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/AkashAmarasinghe?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&color=F39034" alt="Followers" />
+<img src="https://img.shields.io/github/stars/AkashAmarasinghe?style=for-the-badge&label=REPO%20STARS&logo=github&logoColor=white&color=E7B849" alt="Stars" />
 
 </div>
 
-<!-- ======================== ABOUT ME =========================== -->
+<br />
 
-<br/>
+<div align="center"><img src="assets/section-01.svg" width="100%" alt="System Identity" /></div>
 
-<h2 align="center">⌁  SYSTEM.IDENTITY  ⌁</h2>
+<br />
 
-<p align="center">
-  <strong>DEVELOPER PROFILE // INITIALIZED</strong>
-</p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/USER-AKASH%20AMARASINGHE-1A1A1A?style=flat-square&labelColor=991B1B&color=1A1A1A" alt="Name"/>
-<img src="https://img.shields.io/badge/ROLE-SOFTWARE%20ENGINEERING%20UNDERGRADUATE-1A1A1A?style=flat-square&labelColor=B45309&color=1A1A1A" alt="Role"/>
-
-</div>
-
-<br/>
-
-<table align="center">
+<table>
 <tr>
-<td width="55%" valign="top">
+<td valign="top" width="56%">
 
-### ⚡ WHO AM I?
+### ⚡ About me
 
-I'm **Akash Amarasinghe**, a Software Engineering Undergraduate passionate about developing practical and reliable software.
+I'm **Akash Amarasinghe**, a **Software Engineering Undergraduate** passionate about creating practical, reliable software and turning ideas into working applications.
 
-My primary focus is **Java development**, and I enjoy building Android applications, exploring backend technologies and creating database-driven systems.
+**Java engineering** is my primary focus. I also enjoy native Android development, backend technologies, full-stack applications, and database-driven systems.
 
-I believe great software comes from curiosity, continuous learning and the willingness to solve real-world problems.
+**Exploring and improving**
 
-**Currently exploring:**
-
-- ☕ Advanced Java & backend development
-- 📱 Native Android application development
-- 🌐 Full-stack web technologies
-- 🗄️ Database design and integration
-- 🧠 Software architecture and clean code
+- ☕ Advanced Java, OOP & backend systems
+- 📱 Native Android development
+- 🌐 Frontend and backend integration
+- 🗄️ Database design & integration
+- 🧠 Architecture, design patterns & clean code
 
 </td>
-<td width="45%" valign="top">
+<td valign="top" width="44%">
 
-### 💻 DEVELOPER.java
+### `Developer.java`
 
 ```java
 public class Akash {
-
-    String name =
-        "Akash Amarasinghe";
-
-    String role =
-        "Software Engineering Undergraduate";
-
-    String primaryLanguage =
-        "Java";
+    String name = "Akash Amarasinghe";
+    String focus = "Java Engineering";
 
     String[] interests = {
-        "Android Development",
-        "Backend Engineering",
-        "Full-Stack Development",
-        "Database Systems"
+        "Android", "Backend",
+        "Full-Stack", "Databases"
     };
 
     void mission() {
@@ -112,225 +71,143 @@ public class Akash {
 </tr>
 </table>
 
-<br/>
+<br />
 
-<!-- ======================= TECH STACK ========================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F1D1D,50:FACC15,100:7F1D1D" alt="Divider"/>
-
-<br/>
-
-<h2>⌁  TECHNOLOGY.ARSENAL  ⌁</h2>
-
-<p><i>The languages, frameworks and tools powering my development journey.</i></p>
-
-<br/>
-
-### 01 // PROGRAMMING LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" alt="Languages"/>
-
-<br/><br/>
-
-### 02 // MOBILE & APPLICATION DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase&theme=dark" alt="Mobile Development"/>
-
-<br/><br/>
-
-### 03 // DATABASE & BACKEND
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,maven&theme=dark" alt="Databases"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Jakarta%20EE-991B1B?style=flat-square&logo=openjdk&logoColor=white" alt="Jakarta EE"/>
-<img src="https://img.shields.io/badge/REST%20APIs-B45309?style=flat-square&logo=postman&logoColor=white" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Payara%20Server-991B1B?style=flat-square" alt="Payara Server"/>
-
-<br/><br/>
-
-### 04 // DEVELOPMENT ENVIRONMENT
-
-<img src="https://skillicons.dev/icons?i=idea,vscode,git,github,postman&theme=dark" alt="Tools"/>
-
-<br/><br/>
-
-</div>
-
-<!-- ======================= CURRENT FOCUS ======================= -->
+<div align="center"><img src="assets/section-02.svg" width="100%" alt="Technology Arsenal" /></div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F1D1D,50:FACC15,100:7F1D1D" alt="Divider"/>
+#### `01 / PROGRAMMING LANGUAGES`
+<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" alt="Java JavaScript HTML CSS" />
 
-<br/>
+#### `02 / MOBILE & APPLICATION DEVELOPMENT`
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase&theme=dark" alt="Android Studio Firebase" />
 
-<h2>⌁  DEVELOPMENT.ROADMAP  ⌁</h2>
+#### `03 / DATABASE & BACKEND`
+<img src="https://skillicons.dev/icons?i=mysql,firebase,maven&theme=dark" alt="MySQL Firebase Maven" />
 
-<p><i>What I'm learning, improving and building.</i></p>
+<br />
+
+<img src="https://img.shields.io/badge/Jakarta_EE-32151D?style=for-the-badge&logo=openjdk&logoColor=FFB85E" alt="Jakarta EE" />
+<img src="https://img.shields.io/badge/REST_APIs-32151D?style=for-the-badge&logo=postman&logoColor=FFB85E" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Payara_Server-32151D?style=for-the-badge&logoColor=FFB85E" alt="Payara" />
+
+#### `04 / DEVELOPMENT ENVIRONMENT`
+<img src="https://skillicons.dev/icons?i=idea,vscode,git,github,postman&theme=dark" alt="IntelliJ VS Code Git GitHub Postman" />
 
 </div>
 
-<br/>
+<br />
 
-<table align="center">
+<div align="center"><img src="assets/section-03.svg" width="100%" alt="Development Roadmap" /></div>
+
+<br />
+
+<table>
 <tr>
-<td align="center" width="50%">
+<td valign="top" width="50%">
 
-### ☕ JAVA ENGINEERING
+### ☕ Java engineering
 
-Advanced Java  
-Object-Oriented Programming  
-Jakarta EE & Backend Concepts  
-Application Architecture  
+`Advanced Java` · `OOP`  
+`Jakarta EE` · `Backend architecture`  
+`Application design`
 
 </td>
-<td align="center" width="50%">
+<td valign="top" width="50%">
 
-### 📱 ANDROID ENGINEERING
+### 📱 Android engineering
 
-Native Android Development  
-Java & XML  
-Firebase Integration  
-Application Lifecycle  
+`Native Android` · `Java & XML`  
+`Firebase integration`  
+`Application lifecycle`
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td valign="top" width="50%">
 
-### 🌐 FULL-STACK DEVELOPMENT
+### 🌐 Full-stack development
 
-Web Application Development  
-Frontend & Backend Integration  
-RESTful Services  
-Responsive UI Development  
+`Web applications` · `Responsive UI`  
+`RESTful services`  
+`Frontend & backend integration`
 
 </td>
-<td align="center" width="50%">
+<td valign="top" width="50%">
 
-### 🗄️ DATA & ARCHITECTURE
+### 🗄️ Data & architecture
 
-MySQL  
-Cloud Firestore  
-Database Design  
-Clean Code & Design Patterns  
+`MySQL` · `Cloud Firestore`  
+`Database design`  
+`Clean code & design patterns`
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br />
 
-<!-- ====================== GITHUB STATS ========================= -->
+<div align="center"><img src="assets/section-04.svg" width="100%" alt="GitHub Analytics" /></div>
+
+<br />
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F1D1D,50:FACC15,100:7F1D1D" alt="Divider"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkashAmarasinghe&show_icons=true&hide_border=true&bg_color=180E14&title_color=FFC063&text_color=F4DBCF&icon_color=FF664C&ring_color=FF8A35&include_all_commits=true" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashAmarasinghe&layout=compact&langs_count=8&hide_border=true&bg_color=180E14&title_color=FFC063&text_color=F4DBCF" alt="Top languages" />
 
-<br/>
+<br /><br />
 
-<h2>⌁  GITHUB.ANALYTICS  ⌁</h2>
+<img width="75%" src="https://streak-stats.demolab.com?user=AkashAmarasinghe&hide_border=true&background=180E14&ring=FFBF55&fire=FF5947&currStreakLabel=FFC063&sideLabels=FFAC70&dates=B89D98&sideNums=FFF6EC&currStreakNum=FFF6EC" alt="GitHub streak" />
 
-<p><i>My coding activity, contributions and development progress.</i></p>
+<br /><br />
 
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akash200560&show_icons=true&hide_border=true&bg_color=101010&title_color=FACC15&text_color=E5E7EB&icon_color=EF4444&ring_color=DC2626&include_all_commits=true" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash200560&layout=compact&langs_count=8&hide_border=true&bg_color=101010&title_color=FACC15&text_color=E5E7EB" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Akash200560&hide_border=true&background=101010&ring=FACC15&fire=EF4444&currStreakLabel=FACC15&sideLabels=F87171&dates=9CA3AF&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="Streak Statistics"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash200560&bg_color=101010&color=FACC15&line=EF4444&point=FDE047&area=true&area_color=7F1D1D&hide_border=true&custom_title=AKASH%20AMARASINGHE%20-%20CONTRIBUTION%20ACTIVITY" alt="Contribution Graph"/>
-
-<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkashAmarasinghe&bg_color=180E14&color=FFC063&line=FF6849&point=FFE18A&area=true&area_color=6E2834&hide_border=true&custom_title=AKASH%20AMARASINGHE%20-%20CONTRIBUTION%20ACTIVITY" alt="GitHub contribution graph" />
 
 </div>
 
-<!-- ====================== DEV PHILOSOPHY ======================= -->
+<br />
+
+<div align="center"><img src="assets/section-05.svg" width="100%" alt="Developer Mindset" /></div>
+
+<br />
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F1D1D,50:FACC15,100:7F1D1D" alt="Divider"/>
+<img src="https://img.shields.io/badge/01-THINK-9F263C?style=for-the-badge&labelColor=201217" alt="Think" />
+<img src="https://img.shields.io/badge/02-DESIGN-D73D45?style=for-the-badge&labelColor=201217" alt="Design" />
+<img src="https://img.shields.io/badge/03-CODE-F46A35?style=for-the-badge&labelColor=201217" alt="Code" />
+<img src="https://img.shields.io/badge/04-TEST-EC9839?style=for-the-badge&labelColor=201217" alt="Test" />
+<img src="https://img.shields.io/badge/05-EVOLVE-F2C95D?style=for-the-badge&labelColor=201217" alt="Evolve" />
 
-<br/>
+### *“Great software is built one meaningful line of code at a time.”*
 
-<h2>⌁  DEVELOPER.MINDSET  ⌁</h2>
-
-<br/>
-
-<img src="https://img.shields.io/badge/01-THINK-991B1B?style=for-the-badge&labelColor=171717" alt="Think"/>
-<img src="https://img.shields.io/badge/02-DESIGN-B91C1C?style=for-the-badge&labelColor=171717" alt="Design"/>
-<img src="https://img.shields.io/badge/03-CODE-DC2626?style=for-the-badge&labelColor=171717" alt="Code"/>
-<img src="https://img.shields.io/badge/04-TEST-D97706?style=for-the-badge&labelColor=171717" alt="Test"/>
-<img src="https://img.shields.io/badge/05-EVOLVE-FACC15?style=for-the-badge&labelColor=171717" alt="Evolve"/>
-
-<br/><br/>
-
-<h3>“Great software is built one meaningful line of code at a time.”</h3>
-
-<p><i>Stay curious. Stay consistent. Keep creating.</i></p>
-
-<br/>
+Stay curious. Stay consistent. Keep creating.
 
 </div>
 
-<!-- ======================== CONNECT ============================ -->
+<br />
+
+<div align="center"><img src="assets/section-06.svg" width="100%" alt="Establish Connection" /></div>
+
+<br />
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F1D1D,50:FACC15,100:7F1D1D" alt="Divider"/>
+**Let's connect, share knowledge, and build something meaningful.**
 
-<br/>
+<br />
 
-<h2>⌁  ESTABLISH.CONNECTION  ⌁</h2>
+<a href="https://github.com/AkashAmarasinghe"><img src="https://img.shields.io/badge/GITHUB-VIEW_PROFILE-1E1219?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<!-- Replace these placeholders with your actual links before publishing. -->
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-B93C46?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-F28D37?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<p>Let's connect, share knowledge and build something meaningful.</p>
+<br /><br />
 
-<br/>
+<img src="assets/footer.svg" width="100%" alt="Code with purpose — build with passion" />
 
-<a href="https://github.com/Akash200560">
-  <img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-991B1B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-CONTACT-D97706?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/><br/>
-
-</div>
-
-<!-- ======================= FINAL FOOTER ======================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7F1D1D,50:FACC15,100:7F1D1D" alt="Divider"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=FFCC00&center=true&vCenter=true&width=850&height=55&lines=%3E+THANKS+FOR+VISITING+MY+GITHUB+PROFILE;%3E+KEEP+LEARNING.+KEEP+BUILDING.+KEEP+EVOLVING.;%3E+THE+NEXT+BIG+PROJECT+STARTS+WITH+ONE+IDEA." alt="Footer Animation"/>
-
-<br/>
-
-<h3>⚡ CODE WITH PURPOSE. BUILD WITH PASSION.</h3>
-
-<p><sub>DESIGNED BY AKASH AMARASINGHE | POWERED BY CURIOSITY & COFFEE ☕</sub></p>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FFCC00,50:FF453A,100:FFCC00" alt="Bottom Accent"/>
+<sub>DESIGNED BY AKASH AMARASINGHE · POWERED BY CURIOSITY & COFFEE ☕</sub>
 
 </div>
