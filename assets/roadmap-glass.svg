@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="665" viewBox="0 0 1120 665" role="img" aria-label="Development roadmap: Java engineering, Android engineering, Full-stack development, Data and architecture">
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#100B12"/><stop offset=".57" stop-color="#190E17"/><stop offset="1" stop-color="#100C13"/></linearGradient>
+ <linearGradient id="gl" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ffffff" stop-opacity=".13"/><stop offset=".5" stop-color="#ffffff" stop-opacity=".045"/><stop offset="1" stop-color="#ffffff" stop-opacity=".025"/></linearGradient>
+ <linearGradient id="edge" x1="0" x2="1"><stop stop-color="#FF435C"/><stop offset=".52" stop-color="#FF832D"/><stop offset="1" stop-color="#FFD45D"/></linearGradient>
+ <linearGradient id="java" x1="0" x2="1"><stop stop-color="#FF425A"/><stop offset="1" stop-color="#FF8F45"/></linearGradient>
+ <linearGradient id="android" x1="0" x2="1"><stop stop-color="#FF7B2D"/><stop offset="1" stop-color="#FFC155"/></linearGradient>
+ <linearGradient id="full" x1="0" x2="1"><stop stop-color="#FF3658"/><stop offset="1" stop-color="#FF7C38"/></linearGradient>
+ <linearGradient id="data" x1="0" x2="1"><stop stop-color="#F59E31"/><stop offset="1" stop-color="#FFE178"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="49"/></filter>
+ <filter id="shadow" x="-20%" y="-30%" width="140%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#000" flood-opacity=".44"/></filter>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#FFF" stroke-opacity=".023"/></pattern>
+</defs>
+<rect width="1120" height="665" rx="28" fill="url(#bg)"/>
+<ellipse cx="145" cy="130" rx="250" ry="135" fill="#EA3252" opacity=".22" filter="url(#blur)"/>
+<ellipse cx="955" cy="475" rx="240" ry="175" fill="#FFA132" opacity=".14" filter="url(#blur)"/>
+<rect width="1120" height="665" rx="28" fill="url(#grid)"/>
+<path d="M42 36H1078" stroke="url(#edge)" stroke-width="3" stroke-linecap="round"/>
+<text x="54" y="90" fill="#FFBC65" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">// CURRENT FOCUS</text>
+<text x="54" y="133" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="34" font-weight="800">DEVELOPMENT ROADMAP</text>
+<text x="54" y="160" fill="#A9A0A7" font-family="Arial, sans-serif" font-size="16">A focused journey through software engineering</text>
+<g filter="url(#shadow)">
+<rect x="42" y="188" width="504" height="206" rx="23" fill="url(#gl)" stroke="#FF6777" stroke-opacity=".43"/>
+<rect x="574" y="188" width="504" height="206" rx="23" fill="url(#gl)" stroke="#FFBD5A" stroke-opacity=".4"/>
+<rect x="42" y="415" width="504" height="206" rx="23" fill="url(#gl)" stroke="#FF6777" stroke-opacity=".43"/>
+<rect x="574" y="415" width="504" height="206" rx="23" fill="url(#gl)" stroke="#FFBD5A" stroke-opacity=".4"/>
+</g>
+<rect x="43" y="207" width="4" height="164" rx="2" fill="url(#java)"/>
+<rect x="575" y="207" width="4" height="164" rx="2" fill="url(#android)"/>
+<rect x="43" y="434" width="4" height="164" rx="2" fill="url(#full)"/>
+<rect x="575" y="434" width="4" height="164" rx="2" fill="url(#data)"/>
+<rect x="66" y="210" width="53" height="53" rx="15" fill="#FF425A" fill-opacity=".19" stroke="#FF5967" stroke-opacity=".4"/>
+<rect x="598" y="210" width="53" height="53" rx="15" fill="#FF8C35" fill-opacity=".17" stroke="#FFB553" stroke-opacity=".38"/>
+<rect x="66" y="437" width="53" height="53" rx="15" fill="#FF425A" fill-opacity=".19" stroke="#FF5967" stroke-opacity=".4"/>
+<rect x="598" y="437" width="53" height="53" rx="15" fill="#FFB542" fill-opacity=".15" stroke="#FFD36B" stroke-opacity=".36"/>
+<!-- icons drawn as vector -->
+<g fill="none" stroke="#FFB0A7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3"><path d="M84 243h16a6 6 0 0 0 0-12H84v13a7 7 0 0 0 14 0"/><path d="M89 222c-5 4 5 4 0 8M96 221c-5 4 5 4 0 8"/><path d="M83 249h21"/></g>
+<g fill="none" stroke="#FFC46F" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3"><rect x="613" y="222" width="23" height="30" rx="4"/><path d="M618 226h13M620 245h9"/><circle cx="625" cy="249" r=".8" fill="#FFC46F"/></g>
+<g fill="none" stroke="#FFB0A7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3"><rect x="80" y="451" width="25" height="25" rx="4"/><path d="M90 458l-5 6 5 5M95 458l5 6-5 5"/></g>
+<g fill="none" stroke="#FFD782" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3"><ellipse cx="625" cy="453" rx="13" ry="5"/><path d="M612 453v19c0 7 26 7 26 0v-19M612 462c0 7 26 7 26 0"/></g>
+<g font-family="Arial, sans-serif">
+ <text x="134" y="231" fill="#FFF7F5" font-size="23" font-weight="750">Java Engineering</text>
+ <text x="666" y="231" fill="#FFF7F5" font-size="23" font-weight="750">Android Engineering</text>
+ <text x="134" y="458" fill="#FFF7F5" font-size="23" font-weight="750">Full-Stack Development</text>
+ <text x="666" y="458" fill="#FFF7F5" font-size="23" font-weight="750">Data &amp; Architecture</text>
+ <g fill="#D8CED4" font-size="17">
+  <text x="76" y="295">Advanced Java  ·  OOP</text><text x="76" y="327">Jakarta EE &amp; backend concepts</text><text x="76" y="359">Application architecture</text>
+  <text x="608" y="295">Native Android development</text><text x="608" y="327">Java &amp; XML  ·  Firebase</text><text x="608" y="359">Application lifecycle</text>
+  <text x="76" y="522">Modern web applications</text><text x="76" y="554">Responsive interfaces  ·  REST APIs</text><text x="76" y="586">Frontend &amp; backend integration</text>
+  <text x="608" y="522">MySQL  ·  Cloud Firestore</text><text x="608" y="554">Database design &amp; integration</text><text x="608" y="586">Clean code  ·  Design patterns</text>
+ </g>
+</g>
+<path d="M42 642H1078" stroke="url(#edge)" stroke-opacity=".55" stroke-width="2"/>
+</svg>
