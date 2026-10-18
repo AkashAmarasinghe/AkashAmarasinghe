@@ -103,48 +103,11 @@ public class Akash {
 
 <br />
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-### ☕ Java engineering
+<img src="assets/roadmap-glass.svg" width="100%" alt="Java, Android, full-stack and database engineering glass roadmap cards" />
 
-`Advanced Java` · `OOP`  
-`Jakarta EE` · `Backend architecture`  
-`Application design`
-
-</td>
-<td valign="top" width="50%">
-
-### 📱 Android engineering
-
-`Native Android` · `Java & XML`  
-`Firebase integration`  
-`Application lifecycle`
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### 🌐 Full-stack development
-
-`Web applications` · `Responsive UI`  
-`RESTful services`  
-`Frontend & backend integration`
-
-</td>
-<td valign="top" width="50%">
-
-### 🗄️ Data & architecture
-
-`MySQL` · `Cloud Firestore`  
-`Database design`  
-`Clean code & design patterns`
-
-</td>
-</tr>
-</table>
+</div>
 
 <br />
 
