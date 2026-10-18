@@ -126,7 +126,7 @@ public class Akash {
 
 <br /><br />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkashAmarasinghe&bg_color=180E14&color=FFC063&line=FF6849&point=FFE18A&area=true&area_color=6E2834&hide_border=true&custom_title=AKASH%20AMARASINGHE%20-%20CONTRIBUTION%20ACTIVITY" alt="GitHub contribution graph" />
+
 
 </div>
 
